@@ -10,7 +10,7 @@ Data Source: https://www.kaggle.com/olistbr/brazilian-ecommerce
 With this data, I hope to answer...
 
 - How does delivery affect customer satisfaction?
-- Analyze on Late delivery issues to find the cause of late delivery
+- Analyze on Late delivery issues to find out the cause of late delivery
 - What Olist should do to improve customer satisfaction through delivery?
 
 Google slide presentation file [here](https://docs.google.com/presentation/d/1hQ3AKR4-mXc_h1RFmX7lZRM1mQvpWCKv/edit#slide=id.p1)
